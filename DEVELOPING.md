@@ -2,7 +2,7 @@
 
 This document explains how to build, test, and develop features for revive.
 
-## Setup
+## Setup - Install
 
 In order to install all the dependencies run:
 
