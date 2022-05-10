@@ -9,7 +9,7 @@ Please contribute to this repository if any of the following is true:
 
 ## How to contribute
 
-Prerequisites:
+Requirements:
 
 * Familiarity with [GitHub PRs](https://help.github.com/articles/using-pull-requests) (pull requests) and issues.
 * Knowledge of Go and familarity with static code analysis, or tech writing.
