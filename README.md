@@ -23,6 +23,7 @@ Here's how `revive` is different from `golint`:
 - _Everyone can extend it easily with custom rules or formatters._
 - `Revive` provides more rules compared to `golint`.
 
+
 ## Who uses Revive
 
 - [`tidb`](https://github.com/pingcap/tidb) - TiDB is a distributed HTAP database compatible with the MySQL protocol
