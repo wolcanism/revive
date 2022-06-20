@@ -10,4 +10,3 @@ build:
 
 test:
 	@go test -v ./test/...
-
